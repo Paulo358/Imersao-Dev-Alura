@@ -1,0 +1,1 @@
+O objetivo deste projeto é converter temperaturas em graus Celsius para fahrenheit e kelvin.
